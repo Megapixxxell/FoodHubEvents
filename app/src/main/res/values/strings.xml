@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodHub Events</string>
+    <string name="event_name">Название</string>
+    <string name="main_info">Основная информация</string>
+    <string name="contact_info">Контакты</string>
+    <string name="form_date">Дата</string>
+    <string name="start_time">Время начала</string>
+    <string name="end_time">Время конца</string>
+    <string name="firstname">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="email">e-mail</string>
+    <string name="phone_number">Телефон</string>
+    <string name="add_event">Забронировать время</string>
+    <string name="info">Для уточнения информации оператор свяжется с вами в ближайшее время.</string>
+    <string name="text_start">Начало мероприятия</string>
+    <string name="text_end">Конец мероприятия</string>
+    <string name="text_error">Обязательное поле</string>
+    <string name="email_error">Неверный e-mail адрес</string>
+    <string name="hour_text">%s часов</string>
+</resources>
